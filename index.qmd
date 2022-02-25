@@ -120,6 +120,22 @@ Organize a collection of Quarto files in a folder as projects
 -   Icons by flatart_icons - Flaticon: [rewind](https://www.flaticon.com/free-icons/rewind), [hello](https://www.flaticon.com/free-icons/hello), [diver](https://www.flaticon.com/free-icons/diver), [penguin](https://www.flaticon.com/free-icons/penguin)
 -   [Quarto documentation](https://quarto.org/)
 
-## 🔗 [rstd.io/author-quarto](https://rstd.io/author-quarto)
+## 
 
-f
+::: columns
+::: {.column width="50%"}
+### 🔗 Slides 
+
+[rstd.io/author-quarto](https://rstd.io/author-quarto)
+
+<br><br>
+
+### `<>` Code 
+
+[github.com/mine-cetinkaya-rundel/2022-repro-toronto](https://github.com/mine-cetinkaya-rundel/2022-repro-toronto)
+:::
+
+::: {.column width="50%"}
+![](images/thank-you-quarto.png){fig-alt="Quarto logo with a speech bubble that says \"Thank you\". The logo is a blue circle with a white cross in the middle, dividing the circle into four equal quadrants. The speech bubble has a flower on the corner." fig-align="center" width="600"}
+:::
+:::
