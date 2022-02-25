@@ -1,0 +1,14 @@
+/*-- scss:defaults --*/
+
+// fonts
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+
+$font-family-sans-serif: "Atkinson Hyperlegible", sans-serif;
+$presentation-heading-color: #80AAD7;
+$presentation-title-slide-text-align: "left";
+
+/*-- scss:rules --*/
+
+details>summary {
+  font-size: 0.75em;
+}
